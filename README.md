@@ -1,12 +1,15 @@
-# Chiste horrible
-
-## make me a sandwich
+# Chistes nerds
+## sudo
+### make me a sandwich
 No way
 
-## sudo make me a sandwich
+### sudo make me a sandwich
 Ok
 
-# Chiste horrible sobre patos
+## Sigmund Freud
+### ¿Qué es un lapsus freudeano?
+Cuando dices una cosa pito en realidad querías decir otra.
 
-## ¿Qué le dice un pollo a un pato?
-Lo que haces tu con la pata lo hago yo con la polla
+## Lógica
+### Felicitaban a un profesor de lógica por su recién nacido.
+Un colega le preguntó si era niño o niña. El profesor respondió que sí.
