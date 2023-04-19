@@ -1,6 +1,13 @@
 — ¿Sabes cómo se queda un mago después de comer?
 
 — Magordito
+<<<<<<< HEAD
+Van dos ciegos y le dice uno al otro:
+
+— Ojalá lloviera.
+
+— Ojalá yo también.
+=======
 
 
 Soy celíaca.
@@ -17,3 +24,4 @@ Soy celíaca.
 - Póngalo en una frase.
 
 - Salté por una ventana y memory.
+>>>>>>> 40c06ce4d445e2209719d0ce4db635e70ab38b09
